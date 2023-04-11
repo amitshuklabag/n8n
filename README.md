@@ -17,3 +17,5 @@ You can can open N8N UI here:
     password: [SOFTWARE_PASSWORD]
 
 More information about N8N usage can also be found in the documentation.: https://docs.n8n.io/
+
+Note: After deployment, it will take a few seconds for the page to load in the browser.
